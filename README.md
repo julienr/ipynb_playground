@@ -17,3 +17,6 @@ Contents
 - strava API (GPS sport tracking service)
   - [strava/strava_get_activities.ipynb](strava/strava_get_activities.ipynb) : Getting your activities from strava
   - [strava/analytics.ipynb](strava/analytics.ipynb) : Loading them and doing some basics analytics
+
+- misc_ml (Some notes about machine learning)
+  - [misc_ml/curse_dimensionality.ipynb](misc_ml/curse_dimensionality.ipynb) : Plots about the curse of dimensionality
