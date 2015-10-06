@@ -11,8 +11,9 @@ Contents
   - [perceptron/perceptron_theano.ipynb](perceptron/perceptron_theano.ipynb) : Perceptron but with Theano this time
 
 - keras (deep learning)
-  - [keras/convmnist/keras_cnn_mnist.ipynb](keras/convmnist/keras_cnn_mnist.ipynb) : Keras' CNN example on MNIST with weights and convolutions visualization 
+  - [keras/convmnist/keras_cnn_mnist.ipynb](keras/convmnist/keras_cnn_mnist.ipynb) : Keras' CNN example on MNIST with weights and convolutions visualization
   - [keras/convmnist/keras_conv_autoencoder_mnist.ipynb](keras/convmnist/keras_conv_autoencoder_mnist.ipynb) : Convolutional autoencoder on MNIST
+  - [keras/learning_cosine.ipynb](keras/learning_cosine.ipynb): Learning a cosine with a simple NN using keras
 
 - strava API (GPS sport tracking service)
   - [strava/strava_get_activities.ipynb](strava/strava_get_activities.ipynb) : Getting your activities from strava
