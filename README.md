@@ -6,6 +6,9 @@ Best viewed on [nbviewer](http://nbviewer.ipython.org/github/julienr/ipynb_playg
 Contents
 --------
 
+- dumbcoin
+  - [bitcoin/dumbcoin/dumbcoin.ipynb](bitcoin/dumbcoin/dumbcoin.ipynb) : A bitcoin-like educational blockchain implementation.
+
 - perceptron
   - [perceptron/perceptron.ipynb](perceptron/perceptron.ipynb) : A single unit perceptron implementation in python, with a nice video of the training if you run the notebook locally.
   - [perceptron/perceptron_theano.ipynb](perceptron/perceptron_theano.ipynb) : Perceptron but with Theano this time
